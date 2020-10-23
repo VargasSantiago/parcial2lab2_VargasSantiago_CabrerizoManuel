@@ -21,7 +21,7 @@ NO
 Utiles.ValidarDatos();
 
 5)
-Public class Monedero
+Public class Monedero  /n
 {
   protected int moneda;
   
